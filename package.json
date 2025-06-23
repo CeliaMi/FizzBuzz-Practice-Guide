@@ -1,0 +1,21 @@
+{
+  "name": "kata-fizzbuzz-js",
+  "version": "1.0.0",
+  "description": "Kata FizzBuzz implementada con JavaScript y Jest",
+  "main": "src/fizzBuzz.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "kata",
+    "fizzbuzz",
+    "javascript",
+    "jest",
+    "tdd"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+} 
