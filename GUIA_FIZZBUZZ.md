@@ -96,13 +96,13 @@ Vamos a seguir la metodología **Red-Green-Refactor**:
 
 
 Ahora activa tu comando `npm run test`
-¡nuestro test falla!Vamos por buen camino
+¡nuestro test falla! Vamos por buen camino
 
 ---
 
 ### Paso 2: Hacemos que el test pase
 
-- Implementa la función en la carpeta `src`.
+- Implementa la función en la carpeta `src` en el archivo `fizzBuzz.js`
 - Haz lo mínimo necesario para que el test pase.
 
 ¿Pasa el test? ¡Perfecto! Continúa al siguiente paso.

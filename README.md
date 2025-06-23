@@ -36,8 +36,8 @@ kata-fizzFuzz-js/
 
 ## 🎮 Cómo Jugar
 
-###  Seguir la Guía Completa
-Lee el archivo `GUIA_FIZZBUZZ.md` que contiene:
+### 📖 Seguir la Guía Completa
+Lee el archivo **[GUIA_FIZZBUZZ.md](./GUIA_FIZZBUZZ.md)** que contiene:
 - Explicación de npm y Jest
 - Configuración paso a paso
 - Implementación incremental con TDD
