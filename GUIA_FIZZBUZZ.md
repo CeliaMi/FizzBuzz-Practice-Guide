@@ -59,7 +59,8 @@ npm install --save-dev jest
 ### Paso 4: Crea la estructura de carpetas
 - ¿Dónde pondrías el código fuente? ¿Y los tests?
 
-Sugerencia de estructura:
+En este repositorio ya te dejamos los archivos creados con la siguiente estructura:
+
 ```
 kata-fizzFuzz-js/
 ├── src/
@@ -88,18 +89,18 @@ Vamos a seguir la metodología **Red-Green-Refactor**:
 
 ---
 
-### Paso 1: Primer test - Número normal
+### Paso 1: Primer test
 
-- Crea un archivo de test en la carpeta `tests`.
-- Escribe un test que verifique que tu función retorna el número como string si no es divisible por 3 ni 5.
-- En este caso tienes suerte, ya hemos dejado los test escritos por defecto, solo tienes que ir descomentandolos.
+- Ve al archivo de test en la carpeta `tests`.
+- Veras descomentado un test que verifica que si el número es divisible entre 3, debe imprimir Fizz.
 
 
-¿Ya tienes el test? ¡Ahora haz que falle!
+Ahora activa tu comando `npm run test`
+¡nuestro test falla!Vamos por buen camino
 
 ---
 
-### Paso 2: Haz que el test pase
+### Paso 2: Hacemos que el test pase
 
 - Implementa la función en la carpeta `src`.
 - Haz lo mínimo necesario para que el test pase.
@@ -122,7 +123,7 @@ Haz que el test pase.
 
 
 
-### Paso 7: Refactoriza tu código
+### Paso 5: Refactoriza tu código
 
 - ¿Puedes hacer tu función más legible o eficiente?
 - ¿Puedes evitar repetir condiciones?

@@ -31,11 +31,6 @@ module.exports = fizzBuzz;
 const fizzBuzz = require('../src/fizzBuzz');
 
 describe('FizzBuzz', () => {
-  test('debería retornar el número cuando no es divisible por 3 ni 5', () => {
-    expect(fizzBuzz(1)).toBe(1);
-    expect(fizzBuzz(2)).toBe(2);
-    expect(fizzBuzz(4)).toBe(4);
-  });
 
   test('debería retornar "Fizz" cuando es divisible por 3', () => {
     expect(fizzBuzz(3)).toBe('Fizz');
