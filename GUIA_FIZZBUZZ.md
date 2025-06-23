@@ -34,6 +34,7 @@ describe('Mi función', () => {
 
 ## Configuración inicial del proyecto
 
+(Si no dispusieras de este repositorio tendrías que hacer los pasos del 1 al 4, si clonas este repositorio puedes sustituir estos pasos por `npm i`)
 ### Paso 1: Inicializa tu proyecto
 - Ejecuta el comando para crear tu `package.json`.
  ```bash
